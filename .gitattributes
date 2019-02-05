@@ -1,1 +1,2 @@
 Cityscape/* filter=lfs diff=lfs merge=lfs -text
+Cityscape/model_test/segnet_iou_test.npy filter=lfs diff=lfs merge=lfs -text
