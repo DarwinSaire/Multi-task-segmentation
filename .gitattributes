@@ -1,3 +1,5 @@
 Cityscape/* filter=lfs diff=lfs merge=lfs -text
 Cityscape/model_test/segnet_iou_test.npy filter=lfs diff=lfs merge=lfs -text
 KITTI/model_test3/segnet_iou_test.npy filter=lfs diff=lfs merge=lfs -text
+model.ckpt-14.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+KITTI/model1/* filter=lfs diff=lfs merge=lfs -text
